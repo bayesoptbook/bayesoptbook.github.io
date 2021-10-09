@@ -1,0 +1,57 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+ul.gh {
+  list-style:none;
+  height:40px;
+  padding:0;
+  background: #f4f4f4;
+  border-radius:5px;
+  border:1px solid #e0e0e0;
+  width:90px;
+}
+
+.gh li {
+  width:90px;
+  border-radius:5px 5px 5px 5px;
+  height:40px;
+}
+
+.gh a {
+  line-height:1;
+  font-size:11px;
+  color:#676767;
+  display:block;
+  text-align:center;
+  padding-top:6px;
+  height:34px;
+}
+
+.gh a:hover, .downloads a:focus {
+  color:#675C5C;
+  font-weight:bold;
+}
+
+.gh ul a:active {
+  background-color:#f0f0f0;
+}
+
+.gh a strong {
+  font-size:14px;
+  display:block;
+  color:#222;
+}
+
+ul.downloads {
+  margin:0 auto;
+  margin-bottom:20px;
+  list-style:none;
+  height:40px;
+  border-bottom:50px;
+  background: #f4f4f4;
+  border-radius:5px;
+  border:1px solid #e0e0e0;
+  width:270px;
+}
