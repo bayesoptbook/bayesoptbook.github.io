@@ -1,6 +1,6 @@
 Companion webpage for the book _Bayesian Optimization_ by Roman Garnett
 
-bayesoptbook.com
+https://bayesoptbook.com/
 
 Copyright 2021 Roman Garnett, to be published by Cambridge University Press
 
