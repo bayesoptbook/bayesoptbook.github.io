@@ -2,9 +2,9 @@ Companion webpage for the book _Bayesian Optimization_ by Roman Garnett
 
 https://bayesoptbook.com/
 
-Copyright 2021 Roman Garnett, to be published by Cambridge University Press
+Copyright 2023 Roman Garnett, to be published by Cambridge University Press
 
-This is a (draft) monograph on Bayesian optimization. The book aims to provide a
+This is a monograph on Bayesian optimization. The book aims to provide a
 self-contained and comprehensive introduction to Bayesian optimization, starting
 “from scratch” and carefully developing all the key ideas along the way. The
 intended audience is graduate students and researchers in machine learning,
@@ -24,8 +24,9 @@ A few additional topics are also covered:
 - a comprehensive history of Bayesian optimization, and
 - an annotated bibliography of applications.
 
-The book is in the final stages of preparation. I am making the draft available
-for initial commentary before publication. Once published, the book will remain
-freely available on the companion webpage.
+The book is now ready for publication and will appear soon. You can
+[pre-order a copy from Cambridge University Press](https://www.cambridge.org/us/academic/subjects/computer-science/pattern-recognition-and-machine-learning/bayesian-optimization)
+or
+[from Amazon](https://www.amazon.com/Bayesian-Optimization-Roman-Garnett/dp/110842578X).
 
-I welcome feedback on the manuscript! Please feel free to file an issue.
+I welcome feedback, errata, etc. Please feel free to file an issue.
