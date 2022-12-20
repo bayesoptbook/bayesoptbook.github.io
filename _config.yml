@@ -5,6 +5,7 @@ description: Copyright 2023 Roman Garnett, to be published by Cambridge Universi
 baseurl: ""
 url: "https://bayesoptbook.com/"
 github_username: bayesoptbook
+logo: /assets/cover.png
 
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
