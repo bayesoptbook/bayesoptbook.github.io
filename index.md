@@ -2,8 +2,8 @@
 title: Bayesian Optimization Book
 ---
 
-This is a monograph on Bayesian optimization, which will be published in early
-2023 by Cambridge University Press.
+This is a monograph on Bayesian optimization that was published in early 2023 by
+Cambridge University Press.
 
 The book aims to provide a self-contained and comprehensive introduction to
 Bayesian optimization, starting “from scratch” and carefully developing all the
@@ -25,12 +25,12 @@ A few additional topics are also covered:
 - a comprehensive history of Bayesian optimization, and
 - an annotated bibliography of applications.
 
-The book is now ready for publication and will appear soon. You can
-[pre-order a copy from Cambridge University Press](https://www.cambridge.org/us/academic/subjects/computer-science/pattern-recognition-and-machine-learning/bayesian-optimization)
+You can
+[order a copy from Cambridge University Press](https://www.cambridge.org/us/academic/subjects/computer-science/pattern-recognition-and-machine-learning/bayesian-optimization)
 or
 [from Amazon](https://www.amazon.com/Bayesian-Optimization-Roman-Garnett/dp/110842578X).
 
-Once published, the book will also remain freely available on this website.
+The book will remain freely available on this website for personal use.
 
 ## Table of Contents
 
@@ -65,6 +65,8 @@ printing.
 I welcome feedback, errata, etc. Please feel free to report an issue on the
 associated [GitHub repository](https://github.com/bayesoptbook/bayesoptbook.github.io).
 
+A list of errata is available [here](book/errata.pdf).
+
 ## Cite
 
 {% raw %}
@@ -73,8 +75,7 @@ associated [GitHub repository](https://github.com/bayesoptbook/bayesoptbook.gith
   author    = {Garnett, Roman},
   title     = {{Bayesian Optimization}},
   year      = {2023},
-  publisher = {Cambridge University Press},
-  note      = {to appear}
+  publisher = {Cambridge University Press}
 }
 ```
 {% endraw %}
